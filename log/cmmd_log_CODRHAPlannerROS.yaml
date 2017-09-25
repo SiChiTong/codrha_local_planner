@@ -1,0 +1,9450 @@
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 546437263
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 565744876
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 585711002
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 605706930
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 627188444
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 645695686
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 665740728
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 685700178
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 705700397
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 725733995
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 745893955
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -1
+  stamp:
+    secs: 1505915637
+    nsecs: 765833854
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 785717248
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.0337038
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0548363
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 805684089
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.03949
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0542273
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 825761079
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.045788
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0536924
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 845697879
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.0525131
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0532059
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 865775823
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.0597536
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0527782
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 885740995
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.0674118
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0523873
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 905745506
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.075535
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0520659
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 925714492
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.0840838
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0518915
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 945708274
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.0930732
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0516745
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 965825557
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.106068
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0514472
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915637
+    nsecs: 985698938
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.11248
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0513367
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915638
+    nsecs: 5703210
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.144719
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0513252
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915638
+    nsecs: 25710105
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.1527
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0513233
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915638
+    nsecs: 45700550
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.153104
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0477222
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915638
+    nsecs: 65701246
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.162628
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0420895
+---
+header:
+  seq: 0
+  stamp:
+    secs: 1505915638
+    nsecs: 85685014
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.206782
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0372133
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 105704784
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.213437
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0327231
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 125682353
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.223352
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0342265
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 145673513
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.231497
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0342859
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 165808916
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.239465
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0342262
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 185699939
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.244275
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0331437
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 205715894
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.290251
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0361097
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 225771188
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.295282
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0373243
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 245646953
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.297066
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0376696
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 265682458
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.302868
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0377296
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 285684585
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.344183
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.040062
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 305705308
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.346725
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0412585
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 326707839
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365897
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0477623
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 346005678
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.369005
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0489403
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 365715026
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.34967
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0486723
+---
+header:
+  seq: 1
+  stamp:
+    secs: 1505915638
+    nsecs: 385694026
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.351038
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0498317
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 405726194
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.398011
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0550794
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 425953626
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.397925
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0585144
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 445774078
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.395861
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0570161
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 465838193
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.397187
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0570021
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 485764503
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.386035
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0666183
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 505753278
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.387444
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0723441
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 526007652
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.401113
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0813504
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 545786142
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.399654
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0859279
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 565791606
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.425056
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0797214
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 585751533
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.423715
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0785587
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 605742454
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.40688
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0613732
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 625975847
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.407389
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0567691
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 645719051
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.411721
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0671962
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 665712356
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.410253
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0671912
+---
+header:
+  seq: 2
+  stamp:
+    secs: 1505915638
+    nsecs: 685693740
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.428407
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.056157
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 705787420
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.427486
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0505413
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 725685596
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.408683
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0343647
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 745713710
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.407729
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0263356
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 765713691
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.412888
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0373072
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 785766124
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.410386
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0396146
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 805828809
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.426774
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0583354
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 825712919
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.424253
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0617917
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 845711946
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.399069
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0574515
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 865723133
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.398419
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0609078
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 885831594
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.412902
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0722351
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 905723571
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.410596
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.076839
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 925703048
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.417753
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0854907
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 945692777
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.416355
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0866483
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 965709924
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.387451
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.06154
+---
+header:
+  seq: 3
+  stamp:
+    secs: 1505915638
+    nsecs: 985687017
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.386043
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.056954
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 5704402
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.398222
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0498631
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 25701284
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.397038
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0464184
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 45686721
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.397466
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0436682
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 65689325
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.395659
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.040223
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 85685729
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.3759
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0400576
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 105675458
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.375754
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0354639
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 125784635
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.372877
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0162428
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 145911216
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.371995
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.00935248
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 165704727
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.383304
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0171272
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 185707330
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.382122
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0148308
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 205722570
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.367805
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0105785
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 225713729
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.367975
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0105795
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 245684385
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.364185
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0285499
+---
+header:
+  seq: 4
+  stamp:
+    secs: 1505915639
+    nsecs: 265700101
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.364376
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0342939
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 285727739
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.371513
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0427342
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 309731960
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.359377
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0519241
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 325706720
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.366008
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0500644
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 345702648
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365974
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0535123
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 365706443
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363504
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0400204
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 385718822
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.364212
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0388751
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 405699968
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.360744
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0453662
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 426607370
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.361693
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0465179
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 445734977
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36614
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.03924
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 465730428
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.366104
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0380949
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 485725164
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36018
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0308901
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 505724906
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.360459
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0263001
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 525760173
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.360969
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0195161
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 545981645
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.361203
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0172227
+---
+header:
+  seq: 5
+  stamp:
+    secs: 1505915639
+    nsecs: 565755605
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.367417
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0226023
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 586547613
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.367568
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.441118
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 606528997
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.368627
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.49924
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 626788854
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36933
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.560128
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 646703958
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363152
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.618848
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 666833400
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363315
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.680662
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 685767889
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.371035
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.743949
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 707138061
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.371652
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.813607
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 726840257
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.368578
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.869616
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 747076272
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.354365
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.913112
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 766320943
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36311
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.955079
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 786845207
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363187
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.00361
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 805720090
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.364746
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.03414
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 825717926
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36414
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.06613
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 845735073
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.364657
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.05374
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 865742683
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.364844
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.06191
+---
+header:
+  seq: 6
+  stamp:
+    secs: 1505915639
+    nsecs: 885712862
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365261
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.01744
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915639
+    nsecs: 905722856
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365298
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.20253
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915639
+    nsecs: 926600217
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363981
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.20973
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915639
+    nsecs: 945717811
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363357
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.21745
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915639
+    nsecs: 965713262
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.356579
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.19112
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915639
+    nsecs: 985701084
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.340491
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.15117
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 5719900
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.332816
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.12329
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 26388883
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.333403
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.11059
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 45730352
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.335368
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.05404
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 65704822
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.335867
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.978475
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 86360931
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.32978
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.931604
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 106204271
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.330616
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.882699
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 126751661
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.316239
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.720958
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 146838665
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.318104
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.651931
+---
+header:
+  seq: 7
+  stamp:
+    secs: 1505915640
+    nsecs: 166547536
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.321513
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.671785
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 186362743
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.310069
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.516588
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 206211090
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.31559
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.42074
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 225705146
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.329841
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.438388
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 246286153
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.313636
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.225081
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 265721082
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.327887
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.237971
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 286058664
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.315871
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.10342
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 306543827
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.318276
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0391617
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 326368331
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.323615
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.00671573
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 347019195
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.326459
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.0451385
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 366457462
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.325106
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.0629821
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 386758565
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.327655
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.113352
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 405687093
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.342163
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.101167
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 426065444
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.344469
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.15849
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 446178913
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.338762
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.156461
+---
+header:
+  seq: 8
+  stamp:
+    secs: 1505915640
+    nsecs: 465714693
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.353125
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.158085
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 485721111
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.362246
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.382673
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 524291753
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.363486
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.467551
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 531549930
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.355051
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.490555
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 545878887
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365557
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.515727
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 565770626
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36903
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.546067
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 585702180
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.369227
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.586581
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 605722904
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.377193
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.607137
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 625696659
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.377478
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.634197
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 645704746
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.378714
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.628436
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 665816068
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.379173
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.641448
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 685826301
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365683
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.604769
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 705842733
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.365521
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.598074
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 726574420
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.366761
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.566107
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 745847940
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36584
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.544262
+---
+header:
+  seq: 9
+  stamp:
+    secs: 1505915640
+    nsecs: 765816688
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.382585
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.537881
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 785861730
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.367266
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.337841
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 805754899
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.345171
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.290798
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 827415466
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.305555
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.236308
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 846873283
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.304477
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.142958
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 865972042
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.303929
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.0763102
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 885702133
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.297868
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.01244
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 906017541
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.298097
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0829532
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 926003694
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.30001
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.152306
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 946636676
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.315177
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.158802
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 966552734
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.300373
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.186489
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915640
+    nsecs: 985706806
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.287986
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.268596
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915641
+    nsecs: 6629467
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.293016
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.285904
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915641
+    nsecs: 26610612
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.29388
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.309941
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915641
+    nsecs: 45704603
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.29924
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.296523
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915641
+    nsecs: 65788745
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.300809
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.304909
+---
+header:
+  seq: 10
+  stamp:
+    secs: 1505915641
+    nsecs: 85706949
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.295519
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.284213
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 105720281
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.297223
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.292008
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 126646041
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.296387
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.259019
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 146377086
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.298451
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.240102
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 166460514
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.309938
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.218017
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 186284780
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.307306
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.210256
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 206375598
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.311724
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.182855
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 225712299
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.325937
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.159796
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 245722293
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.31541
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.0547546
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 265698194
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.316904
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.00837552
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 285698175
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.329832
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.0848625
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 307227134
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.332461
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.165933
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 326580524
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.333712
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.215818
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 346821069
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.335636
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.286888
+---
+header:
+  seq: 11
+  stamp:
+    secs: 1505915641
+    nsecs: 366779565
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.332766
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.350167
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 386229038
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.330092
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.924935
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 405790090
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.324264
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.02073
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 426134109
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.323878
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.12208
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 445687532
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.320539
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.2447
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 466025590
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.31999
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.33245
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 486238718
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.33711
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.40616
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 505841255
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.321928
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.49295
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 525697946
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.324946
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.55586
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 545694112
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.324589
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.57866
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 565856218
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.322286
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.55634
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 585808992
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.322409
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.53841
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 605852365
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.319817
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.48634
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 625742912
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.32017
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.41204
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 645828008
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.321769
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.28005
+---
+header:
+  seq: 12
+  stamp:
+    secs: 1505915641
+    nsecs: 666717767
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.322927
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.13276
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 685847997
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.325502
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.874391
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 732702016
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.328312
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.503503
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 738695621
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.332661
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.461859
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 746773958
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.325005
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.366479
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 765722990
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.326177
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.166261
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 785851001
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.327499
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.0352633
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 805690765
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.327136
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.260324
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 825707912
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.329012
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.488759
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 846059322
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.32366
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.779483
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 866026878
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.324868
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.02363
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 885716438
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.331559
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.27114
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 905727624
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.332293
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.50291
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 925743818
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.336277
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.68834
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 945721149
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.337039
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.91525
+---
+header:
+  seq: 13
+  stamp:
+    secs: 1505915641
+    nsecs: 965722799
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.346597
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.09371
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915641
+    nsecs: 985738039
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.330815
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.59377
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 24425745
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.349299
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.07896
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 31392574
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.339745
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.1838
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 45706510
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.333929
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.34329
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 65711021
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.346226
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.57475
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 85721492
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.331649
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.79553
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 105701923
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.329207
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.00741
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 125710725
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.328301
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.18484
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 145733594
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.326098
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.34078
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 165701150
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.321118
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.45854
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 185701370
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.318256
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.59927
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 205708026
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.312397
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.69699
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 225696325
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.309408
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.78182
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 246132612
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.305752
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.80976
+---
+header:
+  seq: 14
+  stamp:
+    secs: 1505915642
+    nsecs: 265780448
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.31607
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.87601
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 286109209
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.305391
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.79597
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 312716722
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.306067
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.84145
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 325720310
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.295174
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.80987
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 345715999
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.292656
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.80396
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 365888833
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.289088
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.76103
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 385697126
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.287418
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.69706
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 405692815
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.284845
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.63357
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 425806283
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.2834
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.58035
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 445824861
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.280028
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.5036
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 465682029
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.27905
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.43304
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 485689163
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.276179
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.3505
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 505688667
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.275732
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.26523
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 525870561
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.276359
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.15406
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 545665025
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.276941
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 4.04833
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 566580295
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.27336
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.865
+---
+header:
+  seq: 15
+  stamp:
+    secs: 1505915642
+    nsecs: 585713863
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.274034
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.7505
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 606223344
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.275988
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.89635
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 625696182
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.277476
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.79919
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 645682573
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.277045
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.68191
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 666313648
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.279622
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.57909
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 685678958
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.283871
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.46252
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 705686569
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.287086
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.3528
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 725683689
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.285286
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.24396
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 745687246
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.291663
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.06695
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 766268014
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.300246
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 3.07352
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 785683870
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.296117
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.82454
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 805696725
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.300789
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.68061
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 825717449
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.306066
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.54148
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 846195220
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.320451
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.51091
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 866204261
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.319438
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.20709
+---
+header:
+  seq: 16
+  stamp:
+    secs: 1505915642
+    nsecs: 885684490
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.320174
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 2.03049
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915642
+    nsecs: 905809640
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.327103
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.88947
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915642
+    nsecs: 925728797
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.337173
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.59922
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915642
+    nsecs: 945696830
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.345394
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.41697
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915642
+    nsecs: 966220140
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.344369
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.20192
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915642
+    nsecs: 985804080
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.352469
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 1.01588
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 5813121
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.36107
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.822198
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 25713443
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.375411
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.823412
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 45684814
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.389384
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.400533
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 65723419
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.398169
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0.19892
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 85859537
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.393419
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.101185
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 105717897
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.404574
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.310368
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 125736474
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.424136
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.524439
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 150825262
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.436607
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.704485
+---
+header:
+  seq: 17
+  stamp:
+    secs: 1505915643
+    nsecs: 165730237
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.457
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.855297
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 185724020
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.46032
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.314071
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 205731868
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.471357
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.367555
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 225709199
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.474477
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.465419
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 245754241
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.488939
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.556986
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 265706300
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.492895
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.747976
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 285810470
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.499849
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -0.881703
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 305704355
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.500757
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.03469
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 325777530
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.495382
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.1829
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 345748662
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.494456
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.36849
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 367170095
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.500635
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.57154
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 385692596
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.497351
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -1.78952
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 406997203
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.498186
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -2.02854
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 426333427
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.49332
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -2.27973
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 445733308
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.496041
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -2.57445
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 465739488
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.489794
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -2.85227
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 485741138
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.485489
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -3.12375
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 505712270
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.477627
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -3.41277
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 525720119
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.471625
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -3.68695
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 545757055
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.479971
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -3.97249
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 567056655
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.495133
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -4.25776
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 585691690
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.48402
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -4.53918
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 605697393
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.477922
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -4.83163
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 625710725
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.466299
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -5.15001
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 645747423
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.455605
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -5.38664
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 666491508
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.441889
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -5.66814
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 685726165
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.432342
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -5.91478
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 705709934
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.41768
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -6.1783
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 725710868
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.408831
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -6.82716
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 745822668
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.406442
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -8.02444
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 765720844
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.406207
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -9.44903
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 785715341
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.424499
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 805718660
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.438856
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 825827121
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.43769
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 845705032
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.434181
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 865713596
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.428049
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 885707378
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.418643
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 905692815
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.394581
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 925810575
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0.338064
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 945702552
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: -0.0325538
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 965715169
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: -1.2
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915643
+    nsecs: 985702514
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: -1.2
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: 18
+  stamp:
+    secs: 1505915644
+    nsecs: 5697488
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: -1.2
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: -10
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 25697231
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 45774936
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 65732240
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 85767030
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 105714559
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 125735282
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 145774126
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 165740489
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 185732841
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 205762386
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 225743532
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 245741844
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 265792131
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 285708904
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 305757045
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 325730085
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 345707178
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 366194725
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 385725498
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 405707597
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 425710678
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 445709705
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 471623182
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 485714197
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 505767345
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 525699853
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 545709133
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 569250583
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 585716962
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 605683088
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 625712156
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 645706653
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 669266223
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 685677766
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 705708980
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 725730180
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 745703697
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 765679836
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 785695075
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 805706501
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 825714826
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 845696210
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 865970611
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 885728359
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 905690431
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 925707578
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 945703983
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 965709686
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915644
+    nsecs: 985694408
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 5701780
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 25662899
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 45693874
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 65690755
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 85771322
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 105703592
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 125756025
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 145738840
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 166553735
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 185697793
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 205680608
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 225699186
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 245691061
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 265708684
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 285693883
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 311304569
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 325711250
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 346027374
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 365716218
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 385719060
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 405715942
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 425734996
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 445714712
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 465692281
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 485692262
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 505676746
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 525702714
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 545696020
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 565714836
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 585717201
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 605735063
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 625717163
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 645776748
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 665727615
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 685725212
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 705735206
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 725764036
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 745711565
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 765748977
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 785726547
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 805725574
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 825709819
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 845709562
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 865708827
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 885693073
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 905750036
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 925683498
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 945701837
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 965716838
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915645
+    nsecs: 985710382
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 5721092
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 25704860
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 45722246
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 65712690
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 85733413
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 106221437
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 125709056
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 145729064
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 165734291
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 185719490
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 205737352
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 225722551
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 245729923
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 265719413
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 285776853
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 305744886
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 325751543
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 345845699
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 366093635
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 385701894
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 405729770
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 425719976
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 445800065
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 465779066
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 485750198
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 505721807
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 525750875
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 545723199
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 565711736
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 585705995
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 605722427
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 625729322
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 645716428
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 665710210
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 685709953
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 705722332
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 725728511
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 745703220
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 765716314
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 785769701
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 805774927
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 825711727
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 845722198
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 865706682
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 885707616
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 908555984
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 925719976
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 945716619
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 965718507
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915646
+    nsecs: 985704660
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 5723953
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 25712966
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 45701026
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 65686702
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 85696220
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 105736255
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 125682115
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 145711898
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 165717601
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 185721874
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 205763578
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 225709199
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 245706558
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 265735626
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 285736560
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 305694580
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 325716972
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 345695734
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 365739822
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 385736465
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 405727624
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 425704956
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 445704221
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 465700626
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 485693454
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 505720853
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 525717020
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 545715093
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 565717697
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 585719823
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 605723857
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 625714778
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 645715713
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 665718078
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 685729026
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 705760002
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 725728511
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 745729207
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 765724182
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 785722017
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 805719375
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 825704574
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 845696926
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 865744113
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 885690450
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 905679464
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 925713300
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 945757627
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 965726375
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915647
+    nsecs: 985720157
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915648
+    nsecs: 5709409
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---
+header:
+  seq: -2
+  stamp:
+    secs: 1505915651
+    nsecs: 266212463
+  frame_id: odom
+child_frame_id: base_footprint
+twist:
+  twist:
+    linear:
+      x: 0
+      y: 0
+      z: 0
+    angular:
+      x: 0
+      y: 0
+      z: 0
+---

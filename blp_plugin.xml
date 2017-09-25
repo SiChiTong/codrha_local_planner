@@ -1,0 +1,7 @@
+<library path="lib/libcodrha_local_planner">
+    <class name="codrha_local_planner/CODRHAPlannerROS" type="codrha_local_planner::CODRHAPlannerROS" base_class_type="nav_core::BaseLocalPlanner">
+        <description>
+            An implementation of a local planner using Continous Optimal Decentralized Receding Horizon Apporach.
+        </description>
+    </class>
+</library>
